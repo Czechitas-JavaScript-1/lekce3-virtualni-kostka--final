@@ -1,3 +1,3 @@
 # README #
 
-Czechitas Javascript 1 - Virtuální kostka na procvičení větvení programu
+Czechitas Javascript 1 - Výsledná hra virtuální kostky na procvičení větvení programu
